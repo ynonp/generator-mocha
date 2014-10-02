@@ -13,7 +13,7 @@
     "mocha"
   ],
   "author": "The Yeoman Team",
-  "repository": "yeoman/generator-mocha",
+  "repository": "ynonp/generator-mocha",
   "scripts": {
     "test": "mocha --reporter spec"
   },
